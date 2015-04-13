@@ -1,0 +1,1 @@
+ruby flash.rb name=mchck:dev=COM1:speed=9600 dfu.bin 0
